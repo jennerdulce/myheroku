@@ -34,12 +34,12 @@ Today, we will be deploying your portfolio to a real web server. This will requi
   - Simple 'hello world' `index.html` in public
 - [X] Check in your server code to GitHub (`master` branch)
 - [X] Create an account at Heroku.com
-- [ ] Create a new "app" from your Heroku Dashboard
-- [ ] Deploy your app from your GitHub repository (see Deploy tab in Heroku)
-- [ ] Confirm app is live!
-- [ ] Connect your app to master
-- [ ] Move portfolio website content to the `public` folder
-- [ ] Check in your server code to GitHub (`master` branch)
-- [ ] View Heroku logs (Activity tab)
-- [ ] Confirm app with portfolio content is live
-- [ ] Win.
+- [X] Create a new "app" from your Heroku Dashboard
+- [X] Deploy your app from your GitHub repository (see Deploy tab in Heroku)
+- [X] Confirm app is live!
+- [X] Connect your app to master
+- [X] Move portfolio website content to the `public` folder
+- [X] Check in your server code to GitHub (`master` branch)
+- [X] View Heroku logs (Activity tab)
+- [X] Confirm app with portfolio content is live
+- [X] Win.
